@@ -1,0 +1,21 @@
+.Program-title {
+    text-align: center;
+    border-width:1px;
+    border-style:dotted;
+    border-color:white;
+    
+  }
+
+.Program{
+
+    display: inline-block;
+    width:25% ;
+}
+.Program-content {
+    font-size: 20;
+     
+  } 
+.Program-button {
+    align-items: center;
+    justify-content: center;
+}
